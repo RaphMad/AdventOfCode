@@ -1,6 +1,6 @@
 # Introduction
 
-Contains solutions for exmaples by [https://adventofcode.com/] 2018.
+Contains solutions for examples by [https://adventofcode.com/] 2018.
 
 ## Build
 
