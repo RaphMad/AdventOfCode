@@ -1,11 +1,8 @@
 module Main where
 
-import ParseInput
+import Day1
 
 main :: IO ()
 main = do
     input <- parseDay1
-    print $ day1 input
-
-day1 :: [Integer] -> Integer
-day1 = sum
+    print $ day1_2 input
